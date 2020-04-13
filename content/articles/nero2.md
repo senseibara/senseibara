@@ -1,0 +1,1 @@
+Lucius Domitius Ahenobarbus, better known as Nero, is remembered as a tyrant. A cold-blooded monster who murdered members of his own family and persecuted Christians. History has not spared this “hitler” of antiquity. Until today the facts related to him are disputed. Big heart artist or ruthless brute?  

@@ -1,0 +1,31 @@
+@font-face {
+    font-family: Imperial;
+    src:url(../fonts/imperial-normal-500.ttf);
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: Cheltenham;
+    src:url(../fonts/cheltenham-italic-800.ttf);
+    font-weight: normal;
+}
+
+.blog_post_title{
+    font-family: Cheltenham;
+}
+
+.blog_post_subtitle{
+    font-family: Imperial;
+    font-size: 12px;
+}
+
+.blog_post_content{
+    font-family: Imperial;
+    font-size: 1.25rem;
+    line-height: 1.875rem;
+}
+
+.blog_post_content > p{
+    font-size: 1.25rem;
+    line-height: 1.875rem;
+}
