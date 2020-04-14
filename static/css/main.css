@@ -29,3 +29,14 @@
     font-size: 1.25rem;
     line-height: 1.875rem;
 }
+
+.reading1{
+    background-color: #f9f9f9;
+    padding: 10px 20px 10px 20px;
+    line-height: 12px!important;
+    font-size: 12px!important;
+    size:12px!important;
+    text-align: justify;
+    color:#8a8a8a;
+    font-family:georgia;
+}
