@@ -52,3 +52,12 @@
     margin-right: auto;
   }
 
+.list_article_single {
+    font-family: Imperial;
+    font-size: 18px;
+    color: #1d2124;
+}
+
+.list_articles{
+    line-height: 12px;
+}
