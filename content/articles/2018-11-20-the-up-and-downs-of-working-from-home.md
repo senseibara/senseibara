@@ -5,17 +5,22 @@ type: post
 date: 2018-11-20T22:09:08+00:00
 url: /en/work/the-up-and-downs-of-working-from-home/
 ---
-Imagine the possibility of working from the place you like the most. Where will you work? In the middle of nature? On the edge of a lake ? On your bed? or in any place that stimulates your inspiration? **To be able to work remotely is to benefit from this choice.**
+## Imagine the possibility of working from the place you like the most. Where will you work? In the middle of nature? On the edge of a lake ? On your bed? or in any place that stimulates your inspiration? **To be able to work remotely is to benefit from this choice.** {class="blog_post_subtitle"}
+
+
+<img class="aligncenter" src="/img/work_from_home.jpg"/>
+
+&nbsp;
 
 Remote work brings a lot of benefits, and i intend to talk about it because i have myself experienced it more than once. I would therefore focus on my personal experience. If you have ever had a job of this kind, I invite you to share your experience in the comments.
 
-<span style=" font-size: 32px;">What is it? </span>
+<span class = "blog_post_para_title" >What is it? </span>
 
 The concept is quite simple : **to do your professional activity remotely**. Whether at home or from Jupiter (That&#8217;s where i go most of the time&#8230;), the possibilities are endless. It may happen that some companies require, or prefer that you are in a given country for any reason. But in general space is not a constraint, time is a little more, but again it depends.
 
 &nbsp;
 
-<span style=" font-size: 32px;">How it works ?  </span>
+<span class = "blog_post_para_title">How it works ?  </span>
 
 The demands of a remote work are the same as an office work
 
@@ -25,12 +30,12 @@ The demands of a remote work are the same as an office work
 > Can you hear me ?
 &nbsp;
 
-<span style="font-size: 32px; ">The PROS</span>
+<span style="font-size: 32px;" class ="blog_post_para_title" >The PROS</span>
 
 The PROS are numerous, and they can vary from one person to another. I am thinking in particular of mothers who can manage their homes at the same time, spend more time with their children. Freelancers who can give time to other activities. Remote work can be beneficial for anyone but not always for the same reasons. But I&#8217;m going to talk about my own point of view, and the benefits it brings me.
 
 <p style="padding-left: 60px;">
-  <span style=" font-size: 32px;">1. Better sleep 😴</span>
+  <span class = "blog_post_para_title">1. Better sleep 😴</span>
 </p>
 
 <p style="padding-left: 60px;">
@@ -48,7 +53,7 @@ The PROS are numerous, and they can vary from one person to another. I am thinki
 &nbsp;
 
 <p style="padding-left: 60px;">
-  <span style=" font-size: 32px;">2. More free time ⌚</span>
+  <span class = "blog_post_para_title">2. More free time ⌚</span>
 </p>
 
 <img class="size-full wp-image-2018 aligncenter" src="https://i0.wp.com/senseibara.com/wp-content/uploads/2018/11/giphy-2-1.gif?resize=360%2C202&#038;ssl=1" alt="" width="360" height="202" data-recalc-dims="1" />
@@ -60,7 +65,7 @@ The PROS are numerous, and they can vary from one person to another. I am thinki
 &nbsp;
 
 <p style="padding-left: 60px;">
-  <span style=" font-size: 32px;">3. You can save some ca$h 💸</span>
+  <span class = "blog_post_para_title">3. You can save some ca$h 💸</span>
 </p><figure class="wp-block-image">
 
 <img class="size-full wp-image-1993 aligncenter" src="https://i0.wp.com/senseibara.com/wp-content/uploads/2018/11/giphy.gif?resize=500%2C380&#038;ssl=1" alt="" width="500" height="380" data-recalc-dims="1" /></figure> 
@@ -72,7 +77,7 @@ The PROS are numerous, and they can vary from one person to another. I am thinki
 &nbsp;
 
 <p style="padding-left: 60px;">
-  <span style=" font-size: 32px;">4. More freedom 🕊</span>
+  <span class = "blog_post_para_title">4. More freedom 🕊</span>
 </p><figure class="wp-block-image">
 
 <img class="wp-image-1991 aligncenter" src="https://i2.wp.com/senseibara.com/wp-content/uploads/2018/11/giphy-1.gif?w=1170&#038;ssl=1" alt="" data-recalc-dims="1" /></figure> 
@@ -81,12 +86,12 @@ The PROS are numerous, and they can vary from one person to another. I am thinki
   The first thing that comes to my mind when I think of freedom is a picture shared by one of my colleagues one day. That day he was near a lake, with his MacBook, quietly doing his daily tasks. The caption with his picture was &#8220;Best job of the world&#8221;. No more, no less. This is THE biggest advantage of working remotely and at the same time it&#8217;s the concept. Ability to work from anywhere and sometimes anytime. It happened to me when I wanted to go to my parents to stay for a few days. Incidentally I made even more savings than usual because being housed and fed. But having the ability to work from anywhere gives you a wide range of options. Some of my colleagues opted for a co-working space, it can do the trick for those who want to run into an office atmosphere.
 </p>
 
-<span style=" font-size: 32px;">But&#8230;</span>
+<span class = "blog_post_para_title">But&#8230;</span>
 
 **Everything is not perfect**, sorry if you&#8217;ve believed it so far. But even remote work **has its bad aspects**. When I told my entourage that I was doing my work from home, it was common to hear phrases like, &#8220;oh but that&#8217;s the dream!&#8221;, &#8220;It&#8217;s the best work of the world! &#8220;,&#8221; if only I could have it &#8230; &#8220;. It&#8217;s a notion that gives rise to a lot of fantasies, and that&#8217;s why we can&#8217;t perceive the bad sides from the beginning , and yet there are some &#8230;
 
 <p style="padding-left: 60px;">
-  <span style=" font-size: 32px;">Forever alone</span>
+  <span class = "blog_post_para_title">Forever alone</span>
 </p>
 
 <img class="aligncenter size-full" src="https://i1.wp.com/media.giphy.com/media/xT0GqeV6pCFWI6fw8E/giphy.gif?resize=480%2C267&#038;ssl=1" width="480" height="267" data-recalc-dims="1" />
@@ -106,7 +111,7 @@ The PROS are numerous, and they can vary from one person to another. I am thinki
 &nbsp;
 
 <p style="padding-left: 60px;">
-  <span style=" font-size: 32px;">Days off are depression and anxiety</span>
+  <span class = "blog_post_para_title">Days off are depression and anxiety</span>
 </p>
 
 <img class="aligncenter size-full" src="https://i0.wp.com/media.giphy.com/media/8TJK6prvRXF6g/giphy.gif?resize=480%2C340&#038;ssl=1" width="480" height="340" data-recalc-dims="1" />
@@ -118,7 +123,7 @@ The PROS are numerous, and they can vary from one person to another. I am thinki
 &nbsp;
 
 <p style="padding-left: 60px;">
-  <span style=" font-size: 32px;">Too much noises </span>
+  <span class = "blog_post_para_title">Too much noises </span>
 </p>
 
 <img class="aligncenter " src="https://i2.wp.com/media.giphy.com/media/APbcWKvZf5ka7hU19j/source.gif?resize=458%2C305&#038;ssl=1" width="458" height="305" data-recalc-dims="1" />
@@ -130,7 +135,7 @@ The PROS are numerous, and they can vary from one person to another. I am thinki
 &nbsp;
 
 <p style="padding-left: 60px;">
-  <span style=" font-size: 32px;">Opportunities are missing</span><span style=" font-size: 32px;"><img class="aligncenter size-full" src="https://i2.wp.com/media.giphy.com/media/l41lFw057lAJQMwg0/giphy.gif?resize=480%2C270&#038;ssl=1" width="480" height="270" data-recalc-dims="1" /></span>
+  <span class = "blog_post_para_title">Opportunities are missing</span><span class = "blog_post_para_title"><img class="aligncenter size-full" src="https://i2.wp.com/media.giphy.com/media/l41lFw057lAJQMwg0/giphy.gif?resize=480%2C270&#038;ssl=1" width="480" height="270" data-recalc-dims="1" /></span>
 </p>
 
 <p style="padding-left: 60px;">
@@ -140,7 +145,7 @@ The PROS are numerous, and they can vary from one person to another. I am thinki
 &nbsp;
 
 <p style="padding-left: 60px;">
-  <span style=" font-size: 32px;">Weak contracts  </span>
+  <span class = "blog_post_para_title">Weak contracts  </span>
 </p>
 
 <img class="aligncenter size-full" src="https://i2.wp.com/media.giphy.com/media/39oZZ4lmn51Sw/giphy.gif?resize=480%2C288&#038;ssl=1" width="480" height="288" data-recalc-dims="1" />
