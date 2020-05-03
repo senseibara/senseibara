@@ -1,6 +1,6 @@
 baseURL : "https://example.org/"
 languageCode : "en-us"
-title : "My New Hugo Site"
+title : "Sensei Bara"
 theme : "vanilla-bootstrap-hugo-theme"
 
 # See https://feathericons.com/
@@ -29,8 +29,8 @@ params:
   showActiveNav: true
   containerMaxWidth: 700px
   dateFormat: Jan 2, 2006
-  homeText: Welcome to the Vanilla theme demo. Have a look around. Maybe even eat some ice cream.
-  footerText: Made with [Hugo](https://gohugo.io/) & [Vanilla](https://github.com/zwbetz-gh/vanilla-bootstrap-hugo-theme)
+  homeText: Welcome to sensei bara,
+  footerText: Made by Ndiaye Bara
   hideFooter: false
   katex: true
 

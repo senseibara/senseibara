@@ -6,6 +6,7 @@
   {{ . }}
 {{ else }}
   <h1>{{ .Site.Title }}</h1>
+
   <p class="font-125">{{ .Site.Params.homeText | markdownify }}</p>
 {{ end }}
 </div>
