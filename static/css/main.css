@@ -9,6 +9,9 @@
     src:url(../fonts/cheltenham-italic-800.ttf);
     font-weight: normal;
 }
+body{
+    background-color: #F9FAFA;
+}
 
 .blog_post_title{
     font-family: Cheltenham;

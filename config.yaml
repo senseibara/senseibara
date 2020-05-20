@@ -1,4 +1,4 @@
-baseURL : "https://example.org/"
+baseURL : "https://senseibara.com/"
 languageCode : "en-us"
 title : "Sensei Bara"
 theme : "vanilla-bootstrap-hugo-theme"
@@ -29,7 +29,7 @@ params:
   showActiveNav: true
   containerMaxWidth: 700px
   dateFormat: Jan 2, 2006
-  homeText: Welcome to sensei bara,
+  homeText: <p class="blog_post_content">OSU! I am Sensei Bara</p> <p class="blog_post_content">I write about leadership in the context of <strong>Pop culture</strong>, ...and just culture, but mostly pop culture. </p> <p class="blog_post_content"> If you have never seen this blog before, first of all shame on you ! Second of all this would be a great place to start. </p> <p class="blog_post_content"> If you are the manual skipping type of person, then you'll find my list of articles here, go ahead.</p> <p class="blog_post_content"> If you would like to know more about me, which i know you do ! There is this page they call the about page, i chosed to call it ... The about page ! (like to be original...)</p><p class="blog_post_content"> With all that being said i'll let you </p>
   footerText: Made by Ndiaye Bara
   hideFooter: false
   katex: true
