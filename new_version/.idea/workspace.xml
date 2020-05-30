@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="625f3cf7-9358-4781-b72e-314b8247426d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.gitmodules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/tony" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../archetypes/default.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../config.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../content/about.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../content/articles/2018-10-07-what-is-this-about.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../content/articles/2018-11-20-the-up-and-downs-of-working-from-home.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../content/articles/Nero_the_evil_emperor.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../content/articles/nero2.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../layouts/_default/baseof.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../layouts/_default/list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../layouts/_default/single.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../layouts/_default/terms.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../layouts/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../layouts/partials/head.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../layouts/partials/nav.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../layouts/partials/style.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../layouts/post/single.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/tony/assets/scss/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/tony/assets/scss/main.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/tony/exampleSite/config.toml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/tony/exampleSite/config.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/tony/i18n/en.toml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/tony/i18n/en.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/tony/layouts/_default/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/tony/layouts/_default/list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/tony/layouts/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/tony/layouts/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/tony/layouts/partials/components/home/adjacent-pages.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/tony/layouts/partials/components/home/adjacent-pages.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/tony/layouts/partials/components/home/article-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/tony/layouts/partials/components/home/article-list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/tony/layouts/partials/components/home/eachpost.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/tony/layouts/partials/components/home/eachpost.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/tony/layouts/partials/components/home/header-info.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/tony/layouts/partials/components/home/header-info.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/tony/layouts/partials/components/post/toc.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/tony/layouts/partials/components/post/toc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/tony/layouts/partials/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/tony/layouts/partials/footer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/tony/layouts/partials/head.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/tony/layouts/partials/head.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/tony/layouts/partials/pages/post.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/tony/layouts/partials/pages/post.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/tony/layouts/partials/script.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/tony/layouts/partials/script.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/tony/layouts/partials/style.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/tony/layouts/partials/style.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/tony/resources/_gen/assets/scss/scss/tony.scss_48b060fe05b0a273d182ef83c0605941.content" beforeDir="false" afterPath="$PROJECT_DIR$/themes/tony/resources/_gen/assets/scss/scss/tony.scss_48b060fe05b0a273d182ef83c0605941.content" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/fonts/cheltenham-italic-800.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/fonts/imperial-normal-500.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/fonts/imperial-normal-600.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/img/Mascot-Design1-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/img/bara.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/img/dequoivastonparler-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/img/nero.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/img/separateur-africain-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/img/work_from_home.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themes/vanilla-bootstrap-hugo-theme/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themes/vanilla-bootstrap-hugo-theme/.github/ISSUE_TEMPLATE/bug_report.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themes/vanilla-bootstrap-hugo-theme/.github/ISSUE_TEMPLATE/feature_request.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themes/vanilla-bootstrap-hugo-theme/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themes/vanilla-bootstrap-hugo-theme/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themes/vanilla-bootstrap-hugo-theme/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themes/vanilla-bootstrap-hugo-theme/archetypes/default.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themes/vanilla-bootstrap-hugo-theme/exampleSite/config.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themes/vanilla-bootstrap-hugo-theme/exampleSite/content/_index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themes/vanilla-bootstrap-hugo-theme/exampleSite/content/about.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themes/vanilla-bootstrap-hugo-theme/exampleSite/content/post/_index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themes/vanilla-bootstrap-hugo-theme/exampleSite/content/post/creating-a-new-theme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themes/vanilla-bootstrap-hugo-theme/exampleSite/content/post/goisforlovers.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themes/vanilla-bootstrap-hugo-theme/exampleSite/content/post/hugoisforlovers.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themes/vanilla-bootstrap-hugo-theme/exampleSite/content/post/katex-math-typesetting/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themes/vanilla-bootstrap-hugo-theme/exampleSite/content/post/migrate-from-jekyll.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themes/vanilla-bootstrap-hugo-theme/exampleSite/content/post/nasa-images/earth.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themes/vanilla-bootstrap-hugo-theme/exampleSite/content/post/nasa-images/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themes/vanilla-bootstrap-hugo-theme/exampleSite/content/post/nasa-images/moon.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themes/vanilla-bootstrap-hugo-theme/exampleSite/content/post/nasa-images/sun.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themes/vanilla-bootstrap-hugo-theme/exampleSite/content/post/quotes-by-carl-jung.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themes/vanilla-bootstrap-hugo-theme/exampleSite/content/post/script-to-add-a-page-level-variable-to-content-front-matter-in-hugo.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themes/vanilla-bootstrap-hugo-theme/exampleSite/content/post/style-a-markdown-table-with-bootstrap-classes-in-hugo.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themes/vanilla-bootstrap-hugo-theme/exampleSite/content/post/use-snap-to-install-the-hugo-edge-version-on-fedora-and-ubuntu.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themes/vanilla-bootstrap-hugo-theme/exampleSite/resources/_gen/images/nasa-images/earth_huaae7be4ba70df7325b57cd351ea21ee7_518573_700x0_resize_q75_box.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themes/vanilla-bootstrap-hugo-theme/exampleSite/resources/_gen/images/nasa-images/moon_huaae7be4ba70df7325b57cd351ea21ee7_381038_700x0_resize_q75_box.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themes/vanilla-bootstrap-hugo-theme/exampleSite/resources/_gen/images/nasa-images/sun_huc3d26fbb16c0f70400041133778c1446_3118921_700x0_resize_q75_box.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themes/vanilla-bootstrap-hugo-theme/exampleSite/resources/_gen/images/post/nasa-images/earth_huaae7be4ba70df7325b57cd351ea21ee7_518573_700x0_resize_q75_box.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themes/vanilla-bootstrap-hugo-theme/exampleSite/resources/_gen/images/post/nasa-images/moon_huaae7be4ba70df7325b57cd351ea21ee7_381038_700x0_resize_q75_box.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themes/vanilla-bootstrap-hugo-theme/exampleSite/resources/_gen/images/post/nasa-images/sun_huc3d26fbb16c0f70400041133778c1446_3118921_1000x0_resize_q75_box.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themes/vanilla-bootstrap-hugo-theme/exampleSite/resources/_gen/images/post/nasa-images/sun_huc3d26fbb16c0f70400041133778c1446_3118921_100x0_resize_q75_box.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themes/vanilla-bootstrap-hugo-theme/exampleSite/resources/_gen/images/post/nasa-images/sun_huc3d26fbb16c0f70400041133778c1446_3118921_400x0_resize_q75_box.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themes/vanilla-bootstrap-hugo-theme/exampleSite/resources/_gen/images/post/nasa-images/sun_huc3d26fbb16c0f70400041133778c1446_3118921_700x0_resize_q75_box.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themes/vanilla-bootstrap-hugo-theme/exampleSite/static/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themes/vanilla-bootstrap-hugo-theme/gh-md-toc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themes/vanilla-bootstrap-hugo-theme/images/screenshot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themes/vanilla-bootstrap-hugo-theme/images/tn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themes/vanilla-bootstrap-hugo-theme/layouts/404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themes/vanilla-bootstrap-hugo-theme/layouts/_default/baseof.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themes/vanilla-bootstrap-hugo-theme/layouts/_default/list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themes/vanilla-bootstrap-hugo-theme/layouts/_default/single.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themes/vanilla-bootstrap-hugo-theme/layouts/_default/terms.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themes/vanilla-bootstrap-hugo-theme/layouts/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themes/vanilla-bootstrap-hugo-theme/layouts/partials/date-and-tags.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themes/vanilla-bootstrap-hugo-theme/layouts/partials/footer.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themes/vanilla-bootstrap-hugo-theme/layouts/partials/google-analytics-async.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themes/vanilla-bootstrap-hugo-theme/layouts/partials/head.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themes/vanilla-bootstrap-hugo-theme/layouts/partials/katex.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themes/vanilla-bootstrap-hugo-theme/layouts/partials/nav.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themes/vanilla-bootstrap-hugo-theme/layouts/partials/script.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themes/vanilla-bootstrap-hugo-theme/layouts/partials/style.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themes/vanilla-bootstrap-hugo-theme/layouts/post/single.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themes/vanilla-bootstrap-hugo-theme/layouts/shortcodes/bootstrap-blockquote.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themes/vanilla-bootstrap-hugo-theme/layouts/shortcodes/bootstrap-card-list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themes/vanilla-bootstrap-hugo-theme/layouts/shortcodes/bootstrap-card.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themes/vanilla-bootstrap-hugo-theme/layouts/shortcodes/bootstrap-table.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themes/vanilla-bootstrap-hugo-theme/netlify.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themes/vanilla-bootstrap-hugo-theme/static/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themes/vanilla-bootstrap-hugo-theme/static/js/bootstrap.bundle.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themes/vanilla-bootstrap-hugo-theme/static/js/feather.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themes/vanilla-bootstrap-hugo-theme/static/js/jquery-3.3.1.slim.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themes/vanilla-bootstrap-hugo-theme/theme.toml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/themes/tony" />
+  </component>
+  <component name="ProjectId" id="1cNJKrY9qZ7J2virLf4giBppDoF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/static/css" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/static/css" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/static/css" />
+      <recent name="$PROJECT_DIR$/content/homepage" />
+      <recent name="$PROJECT_DIR$/layouts/partials" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="625f3cf7-9358-4781-b72e-314b8247426d" name="Default Changelist" comment="" />
+      <created>1590363056406</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590363056406</updated>
+      <workItem from="1590363058013" duration="17001000" />
+      <workItem from="1590680001920" duration="17858000" />
+      <workItem from="1590795667842" duration="12820000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="492" y="310" key="EditFileWatcherDialog" timestamp="1590804923839">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="492" y="310" key="EditFileWatcherDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1590804923839" />
+    <state x="341" y="164" key="SettingsEditor" timestamp="1590801961678">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="341" y="164" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1590801961678" />
+    <state x="540" y="299" width="709" height="490" key="find.popup" timestamp="1590862671827">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="540" y="299" width="709" height="490" key="find.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1590862671827" />
+  </component>
+</project>

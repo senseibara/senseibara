@@ -1,0 +1,6 @@
+[submodule "themes/ramium"]
+	path = themes/ramium
+	url = https://github.com/rafed/ramium.git
+[submodule "new_version/themes/tony"]
+	path = new_version/themes/tony
+	url = https://github.com/ThemeTony/hugo-theme-tony.git

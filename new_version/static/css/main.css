@@ -1,0 +1,71 @@
+@font-face {
+    font-family: Imperial;
+    src:url(../fonts/imperial-normal-500.ttf);
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: Cheltenham;
+    src:url(../fonts/cheltenham-italic-800.ttf);
+    font-weight: normal;
+}
+
+.bluepin {
+    background-color : #3498db!important;
+    color: white!important;
+}
+
+.redpin {
+    background-color : #e74c3c!important;
+    color: white!important;
+}
+
+.cat-item {
+display: inline-flex;}
+
+.news_status {
+    font-size: 14px;
+}
+
+.box_status{
+    background: none!important;
+    border: none!important;
+    box-shadow: none!important;
+}
+
+.justBold{
+    font-weight: bold;
+    background-image: linear-gradient(to right, #333 40%, rgba(255, 255, 255, 0) 20%);
+    background-position: bottom;
+    background-size: 5px 2px;
+    background-repeat: repeat-x;
+    padding-bottom: 3px;
+
+}
+
+
+.article-point {
+    font-weight: bold;
+    font-size: 30px;
+}
+
+h4.anchor{
+    display: block;
+    position: relative;
+    top: -100px;
+    visibility: hidden;
+}
+
+.index-div-applause{
+    margin-top: 65px;
+    width: 200px;
+    transform: translate(-230px, 80px);
+    border-radius: 6px;
+}
+
+.element-applause {
+    width: 58px;
+    height: 58px;
+    display: block;
+    margin: 0 auto;
+}
