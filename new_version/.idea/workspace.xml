@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="625f3cf7-9358-4781-b72e-314b8247426d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../.gitmodules" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/tony" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../archetypes/default.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../config.yaml" beforeDir="false" />
@@ -21,6 +19,7 @@
       <change beforePath="$PROJECT_DIR$/../layouts/partials/nav.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../layouts/partials/style.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../layouts/post/single.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/tony" beforeDir="false" afterPath="$PROJECT_DIR$/themes/tony" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/tony/assets/scss/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/tony/assets/scss/main.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/tony/exampleSite/config.toml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/tony/exampleSite/config.toml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/tony/i18n/en.toml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/tony/i18n/en.toml" afterDir="false" />
@@ -30,6 +29,7 @@
       <change beforePath="$PROJECT_DIR$/themes/tony/layouts/partials/components/home/article-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/tony/layouts/partials/components/home/article-list.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/tony/layouts/partials/components/home/eachpost.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/tony/layouts/partials/components/home/eachpost.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/tony/layouts/partials/components/home/header-info.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/tony/layouts/partials/components/home/header-info.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/tony/layouts/partials/components/post/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/tony/layouts/partials/components/post/header.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/tony/layouts/partials/components/post/toc.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/tony/layouts/partials/components/post/toc.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/tony/layouts/partials/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/tony/layouts/partials/footer.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/tony/layouts/partials/head.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/tony/layouts/partials/head.html" afterDir="false" />
@@ -48,6 +48,7 @@
       <change beforePath="$PROJECT_DIR$/../static/img/nero.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../static/img/separateur-africain-1.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../static/img/work_from_home.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../themes/ramium" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../themes/vanilla-bootstrap-hugo-theme/.gitattributes" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../themes/vanilla-bootstrap-hugo-theme/.github/ISSUE_TEMPLATE/bug_report.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../themes/vanilla-bootstrap-hugo-theme/.github/ISSUE_TEMPLATE/feature_request.md" beforeDir="false" />
@@ -162,7 +163,7 @@
       <updated>1590363056406</updated>
       <workItem from="1590363058013" duration="17001000" />
       <workItem from="1590680001920" duration="17858000" />
-      <workItem from="1590795667842" duration="12820000" />
+      <workItem from="1590795667842" duration="18644000" />
     </task>
     <servers />
   </component>
@@ -178,9 +179,9 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="341" y="164" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1590801961678" />
-    <state x="540" y="299" width="709" height="490" key="find.popup" timestamp="1590862671827">
+    <state x="540" y="299" width="709" height="490" key="find.popup" timestamp="1590878536386">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="540" y="299" width="709" height="490" key="find.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1590862671827" />
+    <state x="540" y="299" width="709" height="490" key="find.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1590878536386" />
   </component>
 </project>
