@@ -4,29 +4,7 @@ author: senseibara
 type: post
 date: 2019-10-06T10:18:18+00:00
 url: /leadership/neron-lempereur-diabolique/
-featured_image: /wp-content/uploads/2019/10/nerofr.jpg
-penci_post_views_count:
-  - 84
-penci_post_week_views_count:
-  - 2
-penci_post_month_views_count:
-  - 5
-essb_cached_image:
-  - https://senseibara.com/wp-content/uploads/2019/10/nerofr.jpg
-essb_cache_expire:
-  - 1586759133
-essb_metrics_data:
-  - 'a:5:{i:0;a:5:{s:5:"total";i:2;s:8:"facebook";i:0;s:7:"twitter";i:1;s:8:"linkedin";i:1;s:4:"date";s:10:"2020-03-17";}i:1;a:5:{s:5:"total";i:2;s:8:"facebook";i:0;s:7:"twitter";i:1;s:8:"linkedin";i:1;s:4:"date";s:10:"2020-03-28";}i:2;a:5:{s:5:"total";i:2;s:8:"facebook";i:0;s:7:"twitter";i:1;s:8:"linkedin";i:1;s:4:"date";s:10:"2020-04-05";}i:3;a:5:{s:5:"total";i:2;s:8:"facebook";i:0;s:7:"twitter";i:1;s:8:"linkedin";i:1;s:4:"date";s:10:"2020-04-12";}i:4;a:5:{s:5:"total";i:2;s:8:"facebook";i:0;s:7:"twitter";i:1;s:8:"linkedin";i:1;s:4:"date";s:10:"2020-04-13";}}'
-essb_pc_twitter:
-  - 1
-essb_c_twitter:
-  - 1
-essb_pc_linkedin:
-  - 1
-essb_c_linkedin:
-  - 1
-essb_c_total:
-  - 2
+thumbnail: /img/nero.jpg
 categories:
   - Histoire
   - Leadership

@@ -203,15 +203,15 @@ paginate = 5
     # Comments
 
     # Whether to open (global settings)
-    enableComments = false
+    enableComments = true
     # Description: "comments" in the front Matter of the article
     # Has priority over here
 
     ## Valine
-    enableValine = false
+    enableValine = true
     valineVersion = "latest"
-    valineAppId = ""
-    valineAppKey = ""
+    valineAppId = "XGR4bafOyaa8FBjcKMQHhnFo-MdYXbMMI"
+    valineAppKey = "xPlFhvxnwzo7Gkn75wwk6mAH"
     valinePlaceholder = ""
     valinePath = ""
     valineAvatar = "mm"

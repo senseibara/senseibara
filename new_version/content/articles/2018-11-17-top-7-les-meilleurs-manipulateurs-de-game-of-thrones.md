@@ -5,11 +5,7 @@ type: post
 date: 2018-11-17T16:12:56+00:00
 draft: true
 url: /?p=1927
-featured_image: /wp-content/uploads/2018/11/gameofthronesmanipulateurs.png
-penci_post_views_count:
-  - 165
-essb_cached_image:
-  - https://senseibara.com/wp-content/uploads/2018/11/gameofthronesmanipulateurs.png
+thumbnail: /img/gameofthronesmanipulateurs.png
 categories:
   - 'Films &amp; séries'
   - Psychologie

@@ -4,27 +4,7 @@ author: senseibara
 type: post
 date: 2018-11-20T22:19:08+00:00
 url: /travail/les-avantages-et-inconvenients-du-travail-a-distance-🏡/
-featured_image: /wp-content/uploads/2018/11/bruce_almighty-1.jpg
-penci_post_views_count:
-  - 535
-penci_post_week_views_count:
-  - 14
-penci_post_month_views_count:
-  - 38
-essb_cached_image:
-  - https://senseibara.com/wp-content/uploads/2018/11/bruce_almighty-1.jpg
-essb_pc_facebook:
-  - 4
-essb_cache_expire:
-  - 1586840317
-essb_metrics_data:
-  - 'a:6:{s:5:"total";i:3;s:8:"facebook";i:0;s:7:"twitter";i:3;s:8:"linkedin";i:0;s:4:"date";s:10:"2020-04-02";i:0;a:5:{s:5:"total";i:3;s:8:"facebook";i:0;s:7:"twitter";i:3;s:8:"linkedin";i:0;s:4:"date";s:10:"2020-04-13";}}'
-essb_pc_twitter:
-  - 3
-essb_c_total:
-  - 3
-essb_c_twitter:
-  - 3
+thumbnail: /img/work_from_home.jpg
 categories:
   - Travail
 

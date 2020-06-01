@@ -32,10 +32,10 @@
       <change beforePath="$PROJECT_DIR$/themes/tony/layouts/partials/components/post/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/tony/layouts/partials/components/post/header.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/tony/layouts/partials/components/post/toc.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/tony/layouts/partials/components/post/toc.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/tony/layouts/partials/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/tony/layouts/partials/footer.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/tony/layouts/partials/head.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/tony/layouts/partials/head.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/tony/layouts/partials/pages/post.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/tony/layouts/partials/pages/post.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/tony/layouts/partials/script.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/tony/layouts/partials/script.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/tony/layouts/partials/style.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/tony/layouts/partials/style.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/tony/layouts/partials/third-party/valine.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/tony/layouts/partials/third-party/valine.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/tony/resources/_gen/assets/scss/scss/tony.scss_48b060fe05b0a273d182ef83c0605941.content" beforeDir="false" afterPath="$PROJECT_DIR$/themes/tony/resources/_gen/assets/scss/scss/tony.scss_48b060fe05b0a273d182ef83c0605941.content" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../static/css/bootstrap.min.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../static/css/main.css" beforeDir="false" />
@@ -138,16 +138,21 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/static/css" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/themes/tony/layouts" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/themes/tony/layouts/bmc" />
+      <recent name="$PROJECT_DIR$/content" />
+      <recent name="$PROJECT_DIR$/content/homepage" />
       <recent name="$PROJECT_DIR$/static/css" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/static/css" />
+      <recent name="$PROJECT_DIR$/themes/tony/layouts" />
       <recent name="$PROJECT_DIR$/content/homepage" />
+      <recent name="$PROJECT_DIR$/static/css" />
       <recent name="$PROJECT_DIR$/layouts/partials" />
     </key>
   </component>
@@ -163,7 +168,8 @@
       <updated>1590363056406</updated>
       <workItem from="1590363058013" duration="17001000" />
       <workItem from="1590680001920" duration="17858000" />
-      <workItem from="1590795667842" duration="18644000" />
+      <workItem from="1590795667842" duration="30981000" />
+      <workItem from="1591012814158" duration="73000" />
     </task>
     <servers />
   </component>
@@ -179,9 +185,9 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="341" y="164" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1590801961678" />
-    <state x="540" y="299" width="709" height="490" key="find.popup" timestamp="1590878536386">
+    <state x="540" y="299" width="709" height="490" key="find.popup" timestamp="1590972177552">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="540" y="299" width="709" height="490" key="find.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1590878536386" />
+    <state x="540" y="299" width="709" height="490" key="find.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1590972177552" />
   </component>
 </project>

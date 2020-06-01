@@ -109,8 +109,25 @@ h4.anchor{
 
 .date-modif{
     font-size: 9px!important;
+    font-style: italic;
 }
 
 .date-create{
     font-size: 11px!important;
+}
+
+.social-icon {
+    font-size: 30px;
+    text-align: center;
+}
+
+.footer-bmc{
+    position: fixed !important;
+    width: 45px !important;
+    height: 45px !important;
+    cursor: pointer !important;
+    z-index: 1 !important;
+    bottom: 30px !important;
+    right: 30px !important;
+    border-radius: 6px !important;
 }

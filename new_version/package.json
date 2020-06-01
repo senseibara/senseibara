@@ -1,0 +1,26 @@
+{
+  "name": "senseibara-blog",
+  "version": "1.0.0",
+  "description": "the blog of sensei",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/senseibara/senseibara.git"
+  },
+  "keywords": [
+    "blogging"
+  ],
+  "author": "sensei bara",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/senseibara/senseibara/issues"
+  },
+  "homepage": "https://github.com/senseibara/senseibara#readme",
+  "dependencies": {
+    "firebase-tools": "^8.4.1",
+    "valine": "^1.4.14"
+  }
+}

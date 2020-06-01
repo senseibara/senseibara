@@ -4,29 +4,7 @@ author: senseibara
 type: post
 date: 2018-10-13T13:24:12+00:00
 url: /leadership/sa-majeste-des-mouches-ou-comment-un-mauvais-leadership-peut-tourner-a-la-catastrophe/
-featured_image: /wp-content/uploads/2018/10/Capture.png
-penci_post_views_count:
-  - 274
-penci_post_month_views_count:
-  - 1
-essb_cached_image:
-  - https://senseibara.com/wp-content/uploads/2018/10/Capture.png
-essb_cache_expire:
-  - 1586622616
-essb_metrics_data:
-  - 'a:6:{s:5:"total";i:2;s:8:"facebook";i:0;s:7:"twitter";i:1;s:8:"linkedin";i:1;s:4:"date";s:10:"2020-02-10";i:0;a:5:{s:5:"total";i:2;s:8:"facebook";i:0;s:7:"twitter";i:1;s:8:"linkedin";i:1;s:4:"date";s:10:"2020-04-11";}}'
-essb_pc_facebook:
-  - 3
-essb_pc_twitter:
-  - 1
-essb_c_twitter:
-  - 1
-essb_c_total:
-  - 2
-essb_pc_linkedin:
-  - 1
-essb_c_linkedin:
-  - 1
+thumbnail: /img/Capture.png
 categories:
   - Leadership
   - Livres
