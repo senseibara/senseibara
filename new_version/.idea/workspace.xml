@@ -20,6 +20,7 @@
       <change beforePath="$PROJECT_DIR$/../layouts/partials/style.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../layouts/post/single.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/tony" beforeDir="false" afterPath="$PROJECT_DIR$/themes/tony" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/tony/assets/js/header.js" beforeDir="false" afterPath="$PROJECT_DIR$/themes/tony/assets/js/header.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/tony/assets/scss/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/themes/tony/assets/scss/main.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/tony/exampleSite/config.toml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/tony/exampleSite/config.toml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/tony/i18n/en.toml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/tony/i18n/en.toml" afterDir="false" />
@@ -170,6 +171,7 @@
       <workItem from="1590680001920" duration="17858000" />
       <workItem from="1590795667842" duration="30981000" />
       <workItem from="1591012814158" duration="73000" />
+      <workItem from="1591043106999" duration="1977000" />
     </task>
     <servers />
   </component>
