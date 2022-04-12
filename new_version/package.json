@@ -21,6 +21,6 @@
   "homepage": "https://github.com/senseibara/senseibara#readme",
   "dependencies": {
     "firebase-tools": "^8.4.1",
-    "valine": "^1.4.14"
+    "valine": "^1.4.15"
   }
 }
